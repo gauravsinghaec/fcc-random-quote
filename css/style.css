@@ -1,0 +1,40 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 100vmax; }
+
+a {
+  text-decoration: none;
+  padding: 0;
+  margin: 0; }
+
+#quote {
+  font-family: Kalam, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  background-image: linear-gradient(45deg, #fafafa, #00d2d2);
+  width: 60vmax;
+  margin: 20vh auto 10vh;
+  padding: 1rem;
+  border: solid thin;
+  border-radius: 8px;
+  box-shadow: 2px 2px 20px 2px #000; }
+
+hr {
+  width: 25%;
+  border: solid thin; }
+
+#btn-quote {
+  background-color: #00fad2;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 10px;
+  outline: none;
+  margin: 0 auto 10vh; }
+
+#btn-social {
+  background-color: #00fad2;
+  font-weight: bold;
+  padding: 0.2rem;
+  border-radius: 10px;
+  outline: none; }
