@@ -21,6 +21,8 @@ You can change the quote and also can be shared on tweeter using tweet button on
 
 * https://gauravsinghaec.github.io/fcc-random-quote/
 
+![image](https://user-images.githubusercontent.com/15084301/44958050-02638880-aef8-11e8-98e5-408523b08435.png)
+
 ## Folder Structure
 Your project folder should look like this:
 ```sh
